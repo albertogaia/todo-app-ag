@@ -7,7 +7,7 @@ La Todo List App è un'applicazione web full stack che permette agli utenti di g
 - Aggiungere nuove task alla lista
 - Visualizzare l'elenco delle task presenti
 - Segnare le task come completate o da fare
-- Eliminare le task singolarmente o tutte insieme
+- Eliminare le task
 - Le task completate vengono automaticamente spostate in fondo alla lista
 
 ## Tecnologie Utilizzate
